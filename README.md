@@ -1,5 +1,5 @@
-# triviawebapp-platzicurso
-platzicurso-gce
+# En este proyecto creamos nuestra primera vm usando servicios cloud gcp
+Bueno en esta practica creamos una web app que pueda correr en la cloud de google
 # Practicas
 ¿Qué es compute engine?
 El servicio de Google
