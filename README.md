@@ -1,4 +1,4 @@
-# En este proyecto creamos nuestra primera vm usando servicios cloud gcp
+# En este proyecto creamos nuestra primera vm usando servicios cloud GCP
 Bueno en esta practica creamos una web app que pueda correr en la cloud de google
 # Practicas
 ¿Qué es compute engine?
